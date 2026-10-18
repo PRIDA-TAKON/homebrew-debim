@@ -3,8 +3,8 @@ class Debim < Formula
 
   desc "Minimal Git-native Declarative BIM engine & MCP Server for AI agents and humans"
   homepage "https://github.com/PRIDA-TAKON/debim"
-  url "https://github.com/PRIDA-TAKON/debim/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "735377f2d34a6b457bc2713b0a050033f048e5fd6cf26703a22f8c885b50fdea"
+  url "https://github.com/PRIDA-TAKON/debim/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "cbf2695c19e012a9c2f24d22cda7ee9fb07552d139c406b9e52c0b8af6277082"
   license "MIT"
 
   depends_on "python@3.11"
